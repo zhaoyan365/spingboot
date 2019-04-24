@@ -23,6 +23,7 @@
 **domain层**
 
 		package com.zhaoyan.ssm.domain;
+		import lombok.*;
 		@Getter
 		@Setter
 		@ToString
